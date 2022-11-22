@@ -1,0 +1,29 @@
+/* p {
+    font-family: Lato;
+  }
+  
+  mat-sidenav-container,
+  mat-sidenav-content,
+  mat-sidenav {
+    height: 100%;
+  }
+  
+  mat-sidenav {
+    width: 200px;
+    background-color: #6b3b3b;
+  } */
+  body{ background-color: blanchedalmond;}
+  @media only screen and (max-width:500px) {
+    body{
+      background-color: blueviolet;
+    }
+    
+  }
+  .primary{
+    color: red;
+    display: flex;
+    background-color: aliceblue;
+  }
+  .secondary{color: green;
+  display: flex;
+background-color: aqua;}
